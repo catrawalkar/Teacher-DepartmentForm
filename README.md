@@ -1,9 +1,11 @@
 # Teacher-DepartmentForm
 
-Background
+Background:
+
 Saving and retrieving data from a database is one of the most common operations in a web application. We want you to demonstrate proficiency in this by taking the assignment below.
 
-Assignment
+Assignment:
+
 We want you to write clean and standards compliant code to save teachers and departments information captured from a form into a database, then it retrieve using Ajax.
 
 
@@ -12,7 +14,7 @@ Teachers fields: First name, Last name, Department, Email, Mobile number, Date o
 Department fields: Name.
 
 
-It should have the following features
+It should have the following features:
 
 Create, edit, delete teacher
 
@@ -28,7 +30,8 @@ Edit button on list page to edit teacher, department.
 
 Paginated list pages using Ajax.
 
-Assessment Criteria
+Assessment Criteria:
+
 Code quality of HTML, CSS, Javascript, JQuery, PHP, MySql and Bootstrap.
 
 Look and feel of the form and list pages.
